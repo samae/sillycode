@@ -1,4 +1,5 @@
 #summary One-sentence summary of this page.
+#sidebar Table Of Contents
 
 = Introduction =
 Hey this is a pretty sweet wiki entry. I wish i knew what i was doing.
