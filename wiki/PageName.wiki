@@ -1,0 +1,8 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+Hey this is a pretty sweet wiki entry. I wish i knew what i was doing.
+
+
+= Details =
+This is some *booooold* text! and _itaaaaaalic_, too.
