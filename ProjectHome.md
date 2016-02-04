@@ -1,0 +1,1 @@
+We wanted to see what this system is like, so we're making a test project to determine if it is suitable for our senior design project. Hopefully, even though it's open source, not everyone in the world will be able to edit our source code. We'll see.
